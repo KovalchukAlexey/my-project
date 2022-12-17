@@ -1,5 +1,10 @@
 Second file text
 
+<<<<<<< HEAD
 Change made in the main branch
 
 exampleexampleexample
+=======
+This file was modified in the feature branch
+
+>>>>>>> new-feature
